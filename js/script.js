@@ -23,7 +23,7 @@ for (let i = 0; i < hunters.length; i++) {
     // add styles to the profile information
     hunterImage.classList.add("visual");
 
-    hunterImage.append(hunters[i][1]);
+    // hunterImage.append(hunters[i][1]);
 
     // add a div to the dom
     let profileBlock = document.createElement("div");
