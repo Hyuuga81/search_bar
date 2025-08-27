@@ -3,10 +3,10 @@ const profileCase = document.querySelector('.profiles .container');
 
 // Multidimensional array called hunters holds name and photo of 4 hunters
 const hunters = [
-    ['Sung Jinwoo', '../img/sungjinwoo1.jpg'],
-    ['Shadow Monarch', '../img/sungjinwoo2.jpg'],
-    ['Yoo Jinho', '../img/yoojinho3.jpg'],
-    ['Joo Soohyun', '../img/yoosoohyun2.jpg']
+    ['Sung Jinwoo', './img/sungjinwoo1.jpg'],
+    ['Shadow Monarch', './img/sungjinwoo2.jpg'],
+    ['Yoo Jinho', './img/yoojinho3.jpg'],
+    ['Joo Soohyun', './img/yoosoohyun2.jpg']
 ];
 
 // for each hunter in array carry out the following commands
